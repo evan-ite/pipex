@@ -1,7 +1,6 @@
 ## Pipex 42 Project
 
 
-**Description:**
 The pipex project is about handling pipes in a Unix-like environment. This program executes bash commands with their parameters, using input/output redirection via pipes to transfer data between commands and files. The program aims to mimic the behavior of pipes in bash.
 
 ---
